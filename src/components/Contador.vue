@@ -1,3 +1,6 @@
+<!-- eslint-disable vue/multi-word-component-names -->
+// eslint-disable-next-line vue/multi-word-component-names
+// eslint-disable-next-line vue/multi-word-component-names
 <template>
     <div>
   <h2>Hola mundo</h2>
